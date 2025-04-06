@@ -22,15 +22,15 @@ Install the required Python libraries with:
 
 ```bash
 pip install requests
-
+```
 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/osm2sumo-converter.git
-   cd osm2sumo-converter
+   git clone https://github.com/Harshit2k1/OSM2SUMO.git
+   cd OSM2SUMO
    ```
 
 2. **Verify NETCONVERT:**
